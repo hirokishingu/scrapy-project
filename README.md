@@ -1,7 +1,7 @@
 # scrapy-project
 
 ```
-pip install scrapy
+$pip install scrapy
 ```
 
 
@@ -9,5 +9,5 @@ pip install scrapy
 
 ### example ->
 ```
-scrapy crawl news
+$scrapy crawl news
 ```
